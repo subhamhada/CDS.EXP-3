@@ -9,21 +9,25 @@ Understanding how to use different operators is fundamental to performing calcul
 ### Arithmetic Operators:
 
 These include +(addition), -(subtraction), *(multiplication), /(division), and % (modulus). 
+
 They are used to perform basic mathematical operations in C++.
 
 ### Assignment Operators:
 
  The basic assignment operator = assigns a value to a variable, while operators like +=, -=, *=, and /= combine the particular arithmetic operation with assignment.
+ 
  These operators are used to assign values to variables.
 
 ### Logical operators:
 
 These includes AND(&& or AND), OR(|| or OR), NOT(! or NOT), XOR(exclusive OR).
+
 These operators are used fot decision making and performing logical computations. 
 
 ### Comparison Operators:
 
 These include ==(equal to), !=(not equal to), >(greater than), <(less than), >=(greater than or equal to), and <=(less than or equal to). 
+
 They are used to compare values and give the result as a boolean value either true or false.
 
 ## Code -
@@ -140,8 +144,11 @@ int main()
 
 ## Explanation -
 Arithmetic Operators: Demonstrate basic mathematical operations such as addition, subtraction, multiplication, division, and modulus.
+
 Assignment Operators: Show how to assign values to variables using =, +=, -=, *=, /=, and %=.
+
 logical operators: show how to perform logical computations && AND, || OR, ! NOT, exclusive OR.
+
 Comparison Operators: Illustrate how to compare values using ==, !=, <, >, <=, and >=.
 
 ## Output -
