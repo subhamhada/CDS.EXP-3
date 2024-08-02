@@ -31,7 +31,7 @@ These include ==(equal to), !=(not equal to), >(greater than), <(less than), >=(
 They are used to compare values and give the result as a boolean value either true or false.
 
 ## Code -
-### 1.
+### 1. *Arithmetic Operators*
 ```
 //subham
 //23070123132
@@ -58,7 +58,7 @@ int main()
 }
 ```
 
-### 2.
+### 2.*Assignment Operators*
 ```
 //subham
 //23070123132
